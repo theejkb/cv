@@ -91,6 +91,39 @@ a {
 #page .description{
     font-family: "Josefin Sans Light", sans-serif;
 }
-#page .icon{
-    size: 40px;
+#page .devicon-bootstrap-plain-wordmark{
+    font-size: 5rem;
+    margin: 5%;
+}
+#page .devicon-github-plain-wordmark{
+    font-size: 5rem;
+    margin: 5%;
+}
+#page .devicon-css3-plain-wordmark{
+    font-size: 5rem;
+    margin: 5% ;
+}#page .devicon-html5-plain-wordmark{
+    font-size: 5rem;
+     margin: 5%;
+}#page .devicon-java-plain-wordmark{
+    font-size: 5rem;
+      margin: 5%;
+}#page .devicon-laravel-plain-wordmark{
+    font-size: 5rem;
+       margin: 5%;
+}#page .devicon-mysql-plain-wordmark{
+    font-size: 5rem;
+        margin: 5%;
+}#page .devicon-php-plain{
+    font-size: 5rem;
+         margin: 5%;
+}#page .devicon-symfony-original-wordmark{
+    font-size: 5rem;
+          margin: 5%;
+}#page .devicon-vuejs-plain-wordmark{
+    font-size: 5rem;
+           margin: 5%;
+}#page .devicon-wordpress-plain-wordmark{
+    font-size: 5rem;
+            margin: 5%;
 }
